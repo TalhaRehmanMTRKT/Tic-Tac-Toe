@@ -1,6 +1,6 @@
 
 from numpy import*
-print("-----------TALHA REHMAN,,,,,,,,,,\nAND \nAMIR ALI SHINWARI,,,,,,,,,.......")
+print("-----------TALHA REHMAN,,,,,,,,,,,,,,,,,.......")
 print(".............-------THIS IS THE HUMAN VS HUMAN VERSION--------.................")
 print("see the below number matrices to mark the above locations")
 A=array([[' A ' ,' B ',' C '],[' D ',' E ',' F '],[' G ',' H ',' I ']])
